@@ -1,6 +1,6 @@
 export default function Title({ action, alert }) {
   function updateShow() {
-    showNumber = Math.floor(Math.random() * 79955 + 1);
+    const showNumber = Math.floor(Math.random() * 79955 + 1);
     console.log(showNumber);
     action(showNumber);
   }
