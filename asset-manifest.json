@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/channel-surfer/static/css/main.86bab5e5.css",
-    "main.js": "/channel-surfer/static/js/main.dbb19eea.js",
+    "main.js": "/channel-surfer/static/js/main.00551f5d.js",
     "index.html": "/channel-surfer/index.html",
     "main.86bab5e5.css.map": "/channel-surfer/static/css/main.86bab5e5.css.map",
-    "main.dbb19eea.js.map": "/channel-surfer/static/js/main.dbb19eea.js.map"
+    "main.00551f5d.js.map": "/channel-surfer/static/js/main.00551f5d.js.map"
   },
   "entrypoints": [
     "static/css/main.86bab5e5.css",
-    "static/js/main.dbb19eea.js"
+    "static/js/main.00551f5d.js"
   ]
 }
